@@ -1,6 +1,6 @@
 # Sudoku-solver-using-backtracking-algo
 
-This is a Sudoku game written in python. User can play the game in the GUI.
+User can play the game in the GUI. The solver function uses backtracking algorithm to find solution for a given Sudoku puzzle.
 
 Pygame is needed for the GUI.
 
