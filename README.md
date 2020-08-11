@@ -11,12 +11,12 @@ Run the following command in cmd.
 
     pip
 
-<img src="images/Screenshot%20(79).png" width="700" >
+<img src="images/Screenshot%20(79).png" width="670" >
 
 
     pip install pygame
 
-<img src="images/Screenshot%20(81)_LI.jpg" width="660" >
+<img src="images/Screenshot%20(81)_LI.jpg" width="550" >
 
   
 Download this repo.
@@ -27,8 +27,8 @@ If you have VSCODE then you can open the folder in VSCODE and run the GUI by thi
 
 
 If the number put in the empty cell is wrong it shows error.
-<img src="images/Screenshot%20(78).png" width="840" >
+<img src="images/Screenshot%20(78).png" width="750" >
 
 
 Else the correct answer gets accepted
-<img src="images/Screenshot%20(77).png" width="700" >
+<img src="images/Screenshot%20(77).png" width="750" >
